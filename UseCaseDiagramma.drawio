@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" modified="2023-06-10T15:37:49.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="x4F4motyYUOSUQ073h9Z" version="21.3.7" type="device">
+  <diagram name="Lapa-1" id="faFUwH1yZEs21uZtngCz">
+    <mxGraphModel dx="948" dy="1412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c0H930EQ_X75u0YwT8gw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0H930EQ_X75u0YwT8gw-1" target="c0H930EQ_X75u0YwT8gw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-1" value="Windows OS lietotājs" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="470" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0H930EQ_X75u0YwT8gw-3" target="c0H930EQ_X75u0YwT8gw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0H930EQ_X75u0YwT8gw-3" target="c0H930EQ_X75u0YwT8gw-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-3" value="Startēt Quiz.exe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-5" value="Aizvērt Quiz.exe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c0H930EQ_X75u0YwT8gw-7" target="c0H930EQ_X75u0YwT8gw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c0H930EQ_X75u0YwT8gw-7" target="c0H930EQ_X75u0YwT8gw-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="646" y="550" />
+              <mxPoint x="646" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c0H930EQ_X75u0YwT8gw-7" target="c0H930EQ_X75u0YwT8gw-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="646" y="550" />
+              <mxPoint x="646" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c0H930EQ_X75u0YwT8gw-7" target="c0H930EQ_X75u0YwT8gw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-7" value="Izvēlēties atbildi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-15" value="Atbilde 4" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-16" value="Atbilde 3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="666" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-17" value="Atbilde 2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="666" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-18" value="Atbilde 1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="556" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-24" value="Atgriezties uz &lt;br&gt;sākuma ekrānu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-26" value="Atsākt testu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0H930EQ_X75u0YwT8gw-28" target="c0H930EQ_X75u0YwT8gw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0H930EQ_X75u0YwT8gw-28" target="c0H930EQ_X75u0YwT8gw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0H930EQ_X75u0YwT8gw-28" target="c0H930EQ_X75u0YwT8gw-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0H930EQ_X75u0YwT8gw-28" value="Iesākt testu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="510" width="106" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
