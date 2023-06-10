@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Skripti\AinuParsledzejs.cs" />
+     <Compile Include="Assets\Skripti\AtbilžuSkripts.cs" />
+     <Compile Include="Assets\Skripti\JautajumiUnAtbildes.cs" />
+     <Compile Include="Assets\Skripti\QuizManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
