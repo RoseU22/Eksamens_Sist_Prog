@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Ainas/SakumaEkrans.unity
+- path: Assets/Ainas/Quiz.unity
   isLoaded: 1
   isActive: 1
