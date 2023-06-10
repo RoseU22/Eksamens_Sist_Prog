@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Ainas/SakumaEkrans.unity
+  isLoaded: 1
+  isActive: 1
