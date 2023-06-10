@@ -1,0 +1,198 @@
+<mxfile host="app.diagrams.net" modified="2023-06-10T15:10:14.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XFubKpGEyoP1v6315LHb" version="21.3.7" type="device">
+  <diagram name="Lapa-1" id="iPs02LAPg_5draG6-xj4">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HDcZAndCm5oPaQF33XWE-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="397" y="3" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="HDcZAndCm5oPaQF33XWE-1" parent="1" target="HDcZAndCm5oPaQF33XWE-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-4" target="HDcZAndCm5oPaQF33XWE-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="873" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="208" />
+              <mxPoint x="800" y="953" />
+              <mxPoint x="760" y="953" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-27" target="HDcZAndCm5oPaQF33XWE-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="412.02222222222224" y="363" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-4" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="19" y="203" width="741" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-8" target="HDcZAndCm5oPaQF33XWE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-8" value="Quiz.exe startēšana" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="93" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-12" target="HDcZAndCm5oPaQF33XWE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-12" value="Quiz.exe aizvēršana" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="745" y="1093" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-17" target="HDcZAndCm5oPaQF33XWE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-17" value="Izvēlās atbildi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-20" target="HDcZAndCm5oPaQF33XWE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-20" target="HDcZAndCm5oPaQF33XWE-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-20" value="PasreizejaAtbilde == PareizaAtbilde" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="460" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-22" value="Tiek pieskaitīta pareizā atbilde pie rezultāta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-24" value="Jā" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="292" y="500" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.02222222222224" y="213" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="414" y="233" />
+              <mxPoint x="414" y="233" />
+            </Array>
+            <mxPoint x="414.02857142857147" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-27" value="Parāda jaunu jautājumu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-32" target="HDcZAndCm5oPaQF33XWE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-32" value="Pieskaita kopēja jautājumu skaitu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="88.33333333333333" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-35" target="HDcZAndCm5oPaQF33XWE-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-35" value="JautajumuSkaits == KopejoJautajumuSkaits" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="810" width="168" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-38" target="HDcZAndCm5oPaQF33XWE-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-38" value="Pieskaita kopēja jautājumu skaitu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-42" value="Nē" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="850" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-44" target="HDcZAndCm5oPaQF33XWE-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-44" value="Parāda rezultātu par testu un pareizās atbildes uz visiem jautājumiem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="312.52" as="sourcePoint" />
+            <mxPoint x="740" y="312.52" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="312.52" />
+              <mxPoint x="630" y="312.52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="430" as="sourcePoint" />
+            <mxPoint x="740" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="430" />
+              <mxPoint x="630" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="592.52" as="sourcePoint" />
+            <mxPoint x="740" y="592.52" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="592.52" />
+              <mxPoint x="630" y="592.52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="742.52" as="sourcePoint" />
+            <mxPoint x="740" y="742.52" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="742.52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="880" as="sourcePoint" />
+            <mxPoint x="740" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="880" />
+              <mxPoint x="630" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="889.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HDcZAndCm5oPaQF33XWE-52" target="HDcZAndCm5oPaQF33XWE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-52" value="Atsākt testu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-55" value="Jā" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1090" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-57" value="Nē" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1090" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-58" value="Nē" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="610" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDcZAndCm5oPaQF33XWE-60" value="Jā" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="958" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
