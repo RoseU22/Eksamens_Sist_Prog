@@ -56,6 +56,13 @@ public class QuizManager : MonoBehaviour {
 	public void Nepareizs(){
 
 		JautajumuSkaits++;
+
+		for(int i = 0; i < opcijas.Length; i++){
+			if (JuA [pasreizejaisJautajums].PareizaAtbilde == i + 1) {
+				AtbilzuTeksts.text += JuA [pasreizejaisJautajums].Jautajums+" - Pareizá atbilde bija: ''"+JuA[pasreizejaisJautajums].Atbildes[i]+"''\n\n";
+			}
+		}
+
 		Debug.Log("Atbildētie Jautājumi: " + JautajumuSkaits);
 
 		JuA.RemoveAt(pasreizejaisJautajums);
@@ -72,7 +79,7 @@ public class QuizManager : MonoBehaviour {
 
 			if (JuA [pasreizejaisJautajums].PareizaAtbilde == i + 1) {	
 				opcijas [i].GetComponent<AtbilžuSkripts> ().irPareizs = true;
-				AtbilzuTeksts.text += JuA [pasreizejaisJautajums].Jautajums+" - Pareizá atbilde bija: ''"+JuA[pasreizejaisJautajums].Atbildes[i]+"''\n\n";
+				//AtbilzuTeksts.text += JuA [pasreizejaisJautajums].Jautajums+" - Pareizá atbilde bija: ''"+JuA[pasreizejaisJautajums].Atbildes[i]+"''\n\n";
 			}
 		}
 	}
